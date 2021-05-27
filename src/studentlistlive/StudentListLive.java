@@ -1,14 +1,3 @@
-/*
-    Name: Juyoung Jung
-    Assignment: [assignment name]
-    Program: Telecommunications Technology
-    Date: [assignment due date here]
-
-    Description:
-    [program description in your own words]
-*/
-
-
 
 package studentlistlive;
 
