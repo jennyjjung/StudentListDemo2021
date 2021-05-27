@@ -4,7 +4,7 @@ package studentlistlive;
 /**
  * This class creates a list of students.
  *
- * @author Juyoung Jung, May 20 2021
+ * @author Juyoung Jung, May 26 2021
  */
 
 public class Student {
